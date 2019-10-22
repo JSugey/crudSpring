@@ -1,0 +1,9 @@
+com\crudangularspring\config\WebConfig.class
+com\crudangularspring\service\LibroService.class
+com\crudangularspring\controller\LibroController.class
+com\crudangularspring\dao\LibroDAOImpl.class
+com\crudangularspring\config\MyWebAppInitializer.class
+com\crudangularspring\dao\LibroDAO.class
+com\crudangularspring\service\LibroServiceImpl.class
+com\crudangularspring\model\Libro.class
+com\crudangularspring\config\AppConfig.class
